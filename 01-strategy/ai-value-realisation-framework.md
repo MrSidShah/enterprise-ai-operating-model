@@ -120,3 +120,70 @@ Effective federated AI organisations should measure:
 Enterprise AI transformation is not purely a technology problem.
 
 It is an operating model challenge balancing governance, scalability, experimentation and commercial value creation across distributed organisations.
+
+
+
+# Enterprise AI Maturity Journey
+
+| Stage | Focus | Typical Outcome |
+|---|---|---|
+| Experimentation | Proof of concepts and isolated pilots | Limited business impact |
+| Workflow Augmentation | AI copilots and assisted workflows | Productivity improvements |
+| Operational Intelligence | AI embedded into business processes | Faster and more consistent decision making |
+| Autonomous Operations | Multi-agent orchestration and automation | Scaled operational efficiency |
+| Strategic Optimisation | AI-driven revenue and margin optimisation | Enterprise-wide value creation |
+
+
+# Common Enterprise AI Failure Patterns
+
+## Isolated AI Experiments
+
+Many organisations remain trapped in disconnected proof-of-concept activity without operational integration or measurable business outcomes.
+
+## Lack of Commercial Alignment
+
+AI initiatives frequently focus on technical novelty rather than measurable revenue growth, operational efficiency or customer value.
+
+## Governance Introduced Too Late
+
+Governance is often implemented reactively after AI adoption has already accelerated across the organisation.
+
+## Tooling Fragmentation
+
+Uncontrolled adoption of AI tooling can create duplicated capabilities, security risks and escalating operational costs.
+
+## Centralised Bottlenecks
+
+Over-centralised AI teams often slow delivery and struggle to maintain domain-level business context across distributed organisations.
+
+
+# Typical Enterprise AI Transformation Phases
+
+## Phase 1: Foundation
+
+- Governance establishment
+- Data readiness
+- Security alignment
+- Platform strategy
+- Initial experimentation
+
+## Phase 2: Workflow Integration
+
+- AI copilots
+- Operational augmentation
+- Department-level deployment
+- Human-in-the-loop workflows
+
+## Phase 3: Scaled Operationalisation
+
+- Shared orchestration platforms
+- Evaluation frameworks
+- AI observability
+- Cross-functional integration
+
+## Phase 4: Intelligent Enterprise Operations
+
+- Multi-agent systems
+- Autonomous workflows
+- Decision intelligence
+- Enterprise-wide optimisation
