@@ -1,4 +1,25 @@
 
+![Enterprise AI](https://img.shields.io/badge/Focus-Enterprise_AI-blue)
+![Architecture](https://img.shields.io/badge/Category-AI_Architecture-green)
+![Governance](https://img.shields.io/badge/Coverage-Governance-orange)
+![Operating Model](https://img.shields.io/badge/Model-Federated-purple)
+
+# Purpose
+
+This repository is designed as a practical exploration of how enterprise AI systems can be designed, governed and operationalised across large-scale organisations.
+
+
+# Repository Sections
+
+| Section | Description |
+|---|---|
+| [AI Value Realisation Framework](01-strategy/ai-value-realisation-framework.md) | Commercial value creation and enterprise AI maturity |
+| [Federated AI Operating Model](02-operating-model/federated-ai-operating-model.md) | Organisational design and AI delivery models |
+| [Enterprise AI Reference Architecture](03-architecture/enterprise-ai-reference-architecture.md) | Core enterprise AI system architecture patterns |
+| [Enterprise AI Evaluation Frameworks](04-governance/evaluation-frameworks.md) | Governance, evaluation and operational quality |
+| [AI FinOps](05-operations/ai-finops.md) | AI cost management and operational economics |
+
+
 # Enterprise AI Operating Model
 
 A practical repository exploring how enterprise organisations can operationalise AI at scale across strategy, architecture, governance, operating models and deployment patterns.
@@ -52,17 +73,15 @@ Real-world enterprise AI implementation examples across customer, marketing and 
 
 ---
 
-# Purpose
-
-This repository is designed as a practical exploration of how enterprise AI systems can be designed, governed and operationalised across large-scale organisations.
 
 
-# Repository Sections
+# Planned Additions
 
-| Section | Description |
-|---|---|
-| [AI Value Realisation Framework](01-strategy/ai-value-realisation-framework.md) | Commercial value creation and enterprise AI maturity |
-| [Federated AI Operating Model](02-operating-model/federated-ai-operating-model.md) | Organisational design and AI delivery models |
-| [Enterprise AI Reference Architecture](03-architecture/enterprise-ai-reference-architecture.md) | Core enterprise AI system architecture patterns |
-| [Enterprise AI Evaluation Frameworks](04-governance/evaluation-frameworks.md) | Governance, evaluation and operational quality |
-| [AI FinOps](05-operations/ai-finops.md) | AI cost management and operational economics |
+- Multi-agent enterprise architectures
+- AI observability frameworks
+- Executive AI governance playbooks
+- AI platform operating models
+- Enterprise RAG architectures
+- AI risk management patterns
+- AI workflow orchestration
+- Marketing AI activation frameworks
