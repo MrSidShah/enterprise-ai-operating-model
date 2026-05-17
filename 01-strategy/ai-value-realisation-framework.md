@@ -121,6 +121,8 @@ Enterprise AI transformation is not purely a technology problem.
 
 It is an operating model challenge balancing governance, scalability, experimentation and commercial value creation across distributed organisations.
 
+---
+
 
 
 # Enterprise AI Maturity Journey
