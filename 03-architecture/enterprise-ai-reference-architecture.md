@@ -217,12 +217,68 @@ Poor retrieval quality caused by fragmented or low-quality enterprise data.
 
 ---
 
-# Final Thought
+# Example Enterprise AI Workflow
 
-Enterprise AI architecture is not simply about deploying models.
+```mermaid
+sequenceDiagram
 
-The real challenge is operationalising AI systems reliably, securely and economically across complex enterprise environments.
+participant User
+participant App as AI Application
+participant Orch as Orchestration Layer
+participant Retrieve as Retrieval Service
+participant Model as LLM
+participant Data as Enterprise Data
 
+User->>App: Submit request
+App->>Orch: Start AI workflow
+Orch->>Retrieve: Retrieve enterprise context
+Retrieve->>Data: Query vector/database layer
+Data-->>Retrieve: Return relevant context
+Retrieve-->>Orch: Provide grounded context
+Orch->>Model: Send prompt + context
+Model-->>Orch: Generate response
+Orch-->>App: Structured output
+App-->>User: Final response
+```
+
+
+# Enterprise AI Design Principles
+
+## Modular Architecture
+
+Enterprise AI systems should avoid tightly coupled implementations and instead support reusable orchestration and model layers.
+
+## Model Agnostic Design
+
+Architectures should support multiple model providers and avoid dependency on a single vendor ecosystem.
+
+## Retrieval-First Thinking
+
+Reliable enterprise AI systems increasingly depend on grounded retrieval patterns rather than standalone prompting.
+
+## Governance by Design
+
+Governance should operate as an embedded architectural capability rather than a reactive compliance process.
+
+## Human Oversight
+
+Human review and escalation paths remain critical for high-impact operational workflows.
+
+## Observability as a Core Capability
+
+AI systems require operational tracing, evaluation and cost monitoring from the beginning of deployment.
+
+# Typical Enterprise AI Technology Stack
+
+| Layer | Typical Technologies |
+|---|---|
+| Data Platform | Databricks, Snowflake, BigQuery |
+| Vector Database | Pinecone, Weaviate, pgvector |
+| Orchestration | LangGraph, Semantic Kernel, CrewAI |
+| LLM Providers | OpenAI, Anthropic, Mistral, Llama |
+| Observability | Langfuse, Arize, Weights & Biases |
+| APIs & Integration | FastAPI, GraphQL, REST |
+| Security & Governance | RBAC, audit logging, policy enforcement |
 
 
 
@@ -253,3 +309,13 @@ I[Observability & AI FinOps] --> D
 I --> E
 I --> F
 ```
+
+
+
+# Final Thought
+
+Enterprise AI architecture is not simply about deploying models.
+
+The real challenge is operationalising AI systems reliably, securely and economically across complex enterprise environments.
+
+
