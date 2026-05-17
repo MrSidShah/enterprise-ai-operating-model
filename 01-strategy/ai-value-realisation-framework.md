@@ -1,191 +1,77 @@
-# Federated AI Operating Model
+# AI Value Realisation Framework
 
 ## Overview
 
-A federated AI operating model balances central governance and shared platform capabilities with distributed domain execution across markets, business units and functions.
+Enterprise AI transformation should be measured through measurable business outcomes rather than isolated experimentation or technical adoption metrics.
 
-This model is increasingly necessary in complex global organisations where:
-- local markets have operational autonomy
-- data sources differ across regions
-- regulations vary by geography
-- business models differ across units
-- centralised AI delivery becomes a bottleneck
+Sustainable AI transformation requires alignment across:
+- commercial value creation
+- operational efficiency
+- organisational adoption
+- governance and risk management
+- long-term platform scalability
 
----
-
-# Core Principles
-
-## Central Enablement, Local Execution
-
-Central teams provide:
-- AI platforms
-- governance frameworks
-- shared tooling
-- security standards
-- reusable AI capabilities
-- observability and monitoring
-- model evaluation frameworks
-
-Local teams retain ownership of:
-- domain execution
-- operational workflows
-- local prioritisation
-- market-specific implementation
-- business adoption
+The objective is not simply AI deployment, but operational and financial impact at enterprise scale.
 
 ---
 
-# Operating Model Layers
+# Strategic Value Drivers
 
-## Central AI Platform Team
+## Revenue Growth
 
-Responsibilities:
-- enterprise AI architecture
-- LLM platform management
-- vector infrastructure
-- model hosting strategy
-- governance tooling
-- shared orchestration frameworks
-- security and compliance controls
+AI can support:
+- customer personalisation
+- recommendation systems
+- marketing optimisation
+- pricing intelligence
+- audience targeting
+- customer retention
 
-## Domain AI Teams
+## Operational Efficiency
 
-Responsibilities:
-- business use case implementation
-- workflow integration
-- prompt optimisation
-- local experimentation
-- adoption and change management
+AI enables:
+- workflow automation
+- decision augmentation
+- operational optimisation
+- support automation
+- knowledge retrieval
+- reporting acceleration
 
-## Data & Governance Functions
+## Decision Intelligence
 
-Responsibilities:
-- data quality
-- metadata management
-- identity and access controls
-- model evaluation standards
-- AI risk management
-- regulatory alignment
+Enterprise AI can improve:
+- forecasting accuracy
+- planning processes
+- executive visibility
+- operational responsiveness
+- cross-functional alignment
 
----
+## Platform Leverage
 
-# Key Challenges
+Shared AI capabilities can reduce:
+- duplicated tooling
+- fragmented experimentation
+- operational complexity
+- long-term technical debt
 
-## Platform Fragmentation
 
-Without central standards:
-- duplicate tooling emerges
-- costs increase
-- governance weakens
-- security risks expand
-
-## Over-Centralisation
-
-Overly centralised AI teams often:
-- become delivery bottlenecks
-- lack domain understanding
-- slow experimentation
-- reduce adoption
-
----
-
-# Recommended Governance Model
-
-A successful federated AI model typically includes:
-- central architecture governance
-- shared AI platform services
-- reusable AI components
-- domain-aligned execution
-- common evaluation standards
-- shared observability
-- executive value tracking
-
----
 
 # Success Metrics
 
-Effective federated AI organisations should measure:
-- AI adoption
-- business impact
+Enterprise AI programmes should measure:
+- revenue impact
+- margin improvement
+- operational efficiency
+- AI adoption rates
+- workflow acceleration
+- cost optimisation
 - deployment velocity
-- cost efficiency
-- model reliability
-- governance compliance
-- reuse of shared capabilities
+- customer experience improvements
 
 ---
 
 # Final Thought
 
-Enterprise AI transformation is not purely a technology problem.
+Enterprise AI transformation should not be measured by the number of models deployed or tools adopted.
 
-It is an operating model challenge balancing governance, scalability, experimentation and commercial value creation across distributed organisations.
-
----
-
-
-
-# Enterprise AI Maturity Journey
-
-| Stage | Focus | Typical Outcome |
-|---|---|---|
-| Experimentation | Proof of concepts and isolated pilots | Limited business impact |
-| Workflow Augmentation | AI copilots and assisted workflows | Productivity improvements |
-| Operational Intelligence | AI embedded into business processes | Faster and more consistent decision making |
-| Autonomous Operations | Multi-agent orchestration and automation | Scaled operational efficiency |
-| Strategic Optimisation | AI-driven revenue and margin optimisation | Enterprise-wide value creation |
-
-
-# Common Enterprise AI Failure Patterns
-
-## Isolated AI Experiments
-
-Many organisations remain trapped in disconnected proof-of-concept activity without operational integration or measurable business outcomes.
-
-## Lack of Commercial Alignment
-
-AI initiatives frequently focus on technical novelty rather than measurable revenue growth, operational efficiency or customer value.
-
-## Governance Introduced Too Late
-
-Governance is often implemented reactively after AI adoption has already accelerated across the organisation.
-
-## Tooling Fragmentation
-
-Uncontrolled adoption of AI tooling can create duplicated capabilities, security risks and escalating operational costs.
-
-## Centralised Bottlenecks
-
-Over-centralised AI teams often slow delivery and struggle to maintain domain-level business context across distributed organisations.
-
-
-# Typical Enterprise AI Transformation Phases
-
-## Phase 1: Foundation
-
-- Governance establishment
-- Data readiness
-- Security alignment
-- Platform strategy
-- Initial experimentation
-
-## Phase 2: Workflow Integration
-
-- AI copilots
-- Operational augmentation
-- Department-level deployment
-- Human-in-the-loop workflows
-
-## Phase 3: Scaled Operationalisation
-
-- Shared orchestration platforms
-- Evaluation frameworks
-- AI observability
-- Cross-functional integration
-
-## Phase 4: Intelligent Enterprise Operations
-
-- Multi-agent systems
-- Autonomous workflows
-- Decision intelligence
-- Enterprise-wide optimisation
+The real measure of maturity is the ability to operationalise AI capabilities into measurable business outcomes at scale.
