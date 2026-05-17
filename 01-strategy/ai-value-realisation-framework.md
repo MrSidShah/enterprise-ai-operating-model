@@ -68,6 +68,21 @@ Enterprise AI programmes should measure:
 - deployment velocity
 - customer experience improvements
 
+
+---
+
+# In Practice — What Actually Works
+
+**Start with the revenue line, not the cost line.**
+AI programmes that launch with an efficiency narrative rarely sustain executive sponsorship. The ones that land revenue impact first — even small and specific — build the mandate for everything else. Pick one commercial use case with a measurable output and prove it before scaling.
+
+**Vanity metrics kill AI programmes.**
+The most common failure pattern is measuring activity — models deployed, prompts created, experiments run — rather than outcomes. Boards lose patience fast when the data team can't answer "what did this actually generate?" Set commercial KPIs before the first model goes into production.
+
+**The value realisation gap is real.**
+Most organisations can build AI capability. Far fewer can operationalise it into sustained commercial returns. The gap sits between experimentation and production — and closing it requires organisational change as much as technical execution.
+
+
 ---
 
 # Final Thought

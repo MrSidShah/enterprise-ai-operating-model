@@ -140,6 +140,20 @@ Without workload-level visibility, organisations struggle to connect AI costs to
 
 ---
 
+# In Practice — What Actually Works
+
+**AI infrastructure costs surprise everyone the first time.**
+Token consumption at enterprise scale, vector retrieval at high query volume, and GPU infrastructure for fine-tuning all scale in ways that are not intuitive from small-scale pilots. Instrument costs before you need to — not after the first unexpected bill.
+
+**The unit economics conversation happens at the board level sooner than expected.**
+As AI moves from experimentation to production, finance teams will ask for cost-per-outcome metrics — cost per resolved support ticket, cost per recommendation served, cost per automated workflow completed. Build those calculations into the operating model early, before finance asks for them.
+
+**Shared platform economics only work with chargeback.**
+In large organisations, shared AI infrastructure without a chargeback or showback model creates a tragedy of the commons — domain teams overconsume because cost is invisible to them. Even a lightweight internal pricing model changes behaviour and surfaces true demand signals.
+
+
+---
+
 # Final Thought
 
 Enterprise AI transformation is not only a capability challenge.

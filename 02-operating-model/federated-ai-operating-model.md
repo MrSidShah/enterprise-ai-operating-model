@@ -136,6 +136,20 @@ Federated AI operating models should measure:
 
 ---
 
+# In Practice — What Actually Works
+
+**The balance point is never static.**
+In a federated organisation spanning multiple markets or business units, what works in a mature market with strong data infrastructure will not transfer directly to an emerging one. The central vs. local balance needs to flex by market maturity, not be imposed uniformly from the centre.
+
+**Governance without trust fails.**
+The most common federated AI breakdown is central teams imposing governance frameworks that domain teams experience as blockers rather than enablers. The frameworks that stick are the ones domain teams helped design — even partially. Buy-in from the edges is not optional.
+
+**Shared platforms only work if adoption is earned.**
+Central AI platforms succeed when they demonstrably reduce domain teams' time to delivery. If the central platform requires more effort than building locally, teams will build locally — every time. Platform value must be visible and fast, not theoretical and promised.
+
+
+---
+
 # Final Thought
 
 Enterprise AI transformation is not purely a technology challenge.

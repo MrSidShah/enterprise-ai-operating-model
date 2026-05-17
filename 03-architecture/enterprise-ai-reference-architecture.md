@@ -311,6 +311,19 @@ I --> F
 ```
 
 
+---
+
+# In Practice — What Actually Works
+
+**The data layer breaks everything else.**
+The most sophisticated orchestration and model infrastructure underperforms consistently when the underlying data is fragmented, poorly governed, or inaccessible to retrieval systems. In practice, data readiness determines AI architecture outcomes more than model selection. Fix the data layer first.
+
+**Model agnosticism is a survival strategy.**
+The organisations that locked into a single LLM vendor in 2023 are already paying the price — either in cost, capability gaps, or renegotiation leverage. Build routing and abstraction into the architecture from the start. Switching costs compound quickly.
+
+**Observability is always the last thing built and the first thing needed.**
+Every enterprise AI deployment eventually surfaces an incident where someone asks "what did the model actually do and why?" Without prompt tracing, retrieval logging, and workflow monitoring in place, answering that question is impossible. Treat observability as a day-one requirement, not a phase two deliverable.
+
 
 # Final Thought
 

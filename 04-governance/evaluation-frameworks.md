@@ -191,6 +191,21 @@ Federated organisations should implement shared evaluation frameworks across dis
 
 ---
 
+# In Practice — What Actually Works
+
+**Evaluation frameworks that only measure technical quality fail in production.**
+Groundedness, relevance, and latency scores matter — but the metric that determines whether an AI system survives in a business is whether the people using it trust it. Human evaluation alongside automated scoring is not optional for high-stakes workflows.
+
+**Governance designed by risk functions alone creates unusable systems.**
+The most effective AI governance frameworks are built jointly between risk, legal, data, and the business teams deploying AI. Risk-only governance tends to block everything. Business-only governance tends to miss the things that matter. The tension between them, resolved collaboratively, produces something workable.
+
+**Post-deployment is where governance actually happens.**
+Pre-deployment checklists are necessary but not sufficient. Model behaviour drifts, data distributions shift, and edge cases emerge in production that no evaluation framework predicted. Continuous monitoring and a clear escalation path are what separate responsible AI deployment from performative AI governance.
+
+
+
+---
+
 # Final Thought
 
 Enterprise AI systems should not be evaluated solely on model sophistication.

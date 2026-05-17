@@ -6,7 +6,9 @@
 
 # Purpose
 
+The CDO's field manual for enterprise AI — written by someone who's actually run it at scale.
 This repository is designed as a practical exploration of how enterprise AI systems can be designed, governed and operationalised across large-scale organisations.
+
 
 
 # Repository Sections
@@ -73,15 +75,4 @@ Real-world enterprise AI implementation examples across customer, marketing and 
 
 ---
 
-
-
-# Planned Additions
-
-- Multi-agent enterprise architectures
-- AI observability frameworks
-- Executive AI governance playbooks
-- AI platform operating models
-- Enterprise RAG architectures
-- AI risk management patterns
-- AI workflow orchestration
-- Marketing AI activation frameworks
+| [AI Activation — Federated Media Organisation](06-use-cases/ai-activation-federated-media-organisation.md) | Applied patterns from enterprise AI programmes |
