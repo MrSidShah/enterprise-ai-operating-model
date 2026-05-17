@@ -20,6 +20,7 @@ This repository is designed as a practical exploration of how enterprise AI syst
 | [Enterprise AI Reference Architecture](03-architecture/enterprise-ai-reference-architecture.md) | Core enterprise AI system architecture patterns |
 | [Enterprise AI Evaluation Frameworks](04-governance/evaluation-frameworks.md) | Governance, evaluation and operational quality |
 | [AI FinOps](05-operations/ai-finops.md) | AI cost management and operational economics |
+| [AI Activation — Federated Media Organisation](06-use-cases/ai-activation-federated-media-organisation.md) | Applied patterns from enterprise AI programmes |
 
 
 # Enterprise AI Operating Model
@@ -75,4 +76,4 @@ Real-world enterprise AI implementation examples across customer, marketing and 
 
 ---
 
-| [AI Activation — Federated Media Organisation](06-use-cases/ai-activation-federated-media-organisation.md) | Applied patterns from enterprise AI programmes |
+
